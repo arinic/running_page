@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://arinic.github.io/running_page/',
-    logo: 'http://img.arinic.com/2018-12-26-header.png',
+    logo: 'https://img.arinic.com/2018-12-26-header.png',
     description: 'Personal site and blog',
     navLinks: [
       {
